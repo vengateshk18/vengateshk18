@@ -1,11 +1,6 @@
 # Hi there 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
 # Things I am passionate about ⚓
 - Web Dev :robot:
 - Problem Solving and Competative Programming :octocat:
