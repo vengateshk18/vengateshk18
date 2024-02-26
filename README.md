@@ -4,7 +4,8 @@
 # Things I am passionate about ⚓
 - Web Dev :robot:
 - Problem Solving and Competative Programming :octocat:
-
+## About Me:
+I am a mechanical engineer interested in web development and socket programming. My enthusiasm extends to exploring data structures and algorithms. Currently, on a professional journey in web development, I specialize in the architecture of scalable applications. I am eager to contribute my knowledge to help the company grow.
 ## Get in touch :coffee:
 - Contact me on on [Twitter](https://twitter.com/crickipedia04).
 - Linktree Profile [LinkTree](https://linktr.ee/vengateshk).
