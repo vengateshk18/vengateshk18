@@ -1,5 +1,7 @@
 # Hi there 👋
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
 ## About Me:
 I am a mechanical engineer interested in web development and socket programming. My enthusiasm extends to exploring data structures and algorithms. Currently, on a professional journey in web development, I specialize in the architecture of scalable applications. I am eager to contribute my knowledge to help the company grow.
 # Things I am passionate about ⚓
