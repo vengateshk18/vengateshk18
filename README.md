@@ -16,7 +16,6 @@ I am a mechanical engineer interested in web development and socket programming.
 - And of course GitHub you're already on (Recursion).
 
 
-##Profile Views:
 [![](https://visitcount.itsvg.in/api?id=vengateshk18&label=Profile%20Views&color=4&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 <!--
