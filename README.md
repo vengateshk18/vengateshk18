@@ -15,6 +15,8 @@ I am a mechanical engineer interested in web development and socket programming.
 - Your future employee on [LinkedIn](https://www.linkedin.com/in/vengateshk18)
 - And of course GitHub you're already on (Recursion).
 
+  
+![vengateshk18's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vengateshk18&theme=monokai&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=vengateshk18&label=Profile%20Views&color=4&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
