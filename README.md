@@ -17,7 +17,9 @@ I am a mechanical engineer interested in web development and socket programming.
 
   
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vengateshk18&show_icons=true&locale=en&layout=compact" alt="vengateshk18" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vengateshk18&show_icons=true&locale=en" alt="vengateshk18" /></p>
 
 <!--
 **sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
